@@ -2,9 +2,7 @@
 from enum import Enum
 
 class Turn():
-    class Action(Enum):
-        PASS_CARD = 0
-        TAKE_CARD = 1
+    ACTIONS = ['PASS_CARD', 'TAKE_CARD']
 
     def __init__(self, top_card, counters, player_index, action):
         self.top_card = top_card
