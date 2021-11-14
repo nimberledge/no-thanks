@@ -58,13 +58,13 @@ class RandomPlayer(Player):
         if self.counters == 0:
             return 1
         flip = random.random()
-        if flip < 0.4:
+        if flip < 0.6:
             self.counters += counters
             self.cards.append(top_card)
             return 1
-        else:
-            self.counters -= 1
-            return 0
+
+        self.counters -= 1
+        return 0
 
     def see_turn(self, turn):
         return

@@ -87,8 +87,11 @@ class GameEngine():
             self.player_counters[player_index] += self.top_card_counters
 
         logging.info("Informing all players of the move made.")
-        logging.info("Turn info:\n Top card: {}, Counters: {}, Action: {}\n".format(
+        logging.info("Turn info:\n Top card: {}, Counters: {}, Action: {}".format(
             self.top_card, turn.counters, Turn.ACTIONS[turn_action]
+        ))
+        logging.info("Player {} cards: {}, counters: {}\n".format(
+            player_index, self.player_cards[player_index], self.player_counters[player_index]
         ))
         for p in self.players:
             p.see_turn(turn)

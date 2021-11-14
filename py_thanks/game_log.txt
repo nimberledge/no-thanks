@@ -7,90 +7,21 @@ INFO: Player 0 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
  Top card: 11, Counters: 0, Action: PASS_CARD
+INFO: Player 0 cards: [], counters: 10
 
 INFO: Asking player 1 for their move
 INFO: Player 1 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
  Top card: 11, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 3, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 4, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 5, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 6, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 7, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 8, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 9, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 10, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 11, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 12, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 13, Action: PASS_CARD
+INFO: Player 1 cards: [], counters: 10
 
 INFO: Asking player 2 for their move
 INFO: Player 2 chose TAKE_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 11, Counters: 14, Action: TAKE_CARD
+ Top card: 11, Counters: 2, Action: TAKE_CARD
+INFO: Player 2 cards: [11], counters: 13
 
 INFO: New top card is 7
 INFO: Asking player 2 for their move
@@ -98,552 +29,87 @@ INFO: Player 2 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
  Top card: 7, Counters: 0, Action: PASS_CARD
+INFO: Player 2 cards: [11], counters: 12
 
 INFO: Asking player 3 for their move
 INFO: Player 3 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
  Top card: 7, Counters: 1, Action: PASS_CARD
+INFO: Player 3 cards: [], counters: 10
 
 INFO: Asking player 0 for their move
 INFO: Player 0 chose TAKE_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
  Top card: 7, Counters: 2, Action: TAKE_CARD
+INFO: Player 0 cards: [7], counters: 12
 
 INFO: New top card is 35
 INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
+INFO: Player 0 chose TAKE_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 35, Counters: 0, Action: PASS_CARD
+ Top card: 35, Counters: 0, Action: TAKE_CARD
+INFO: Player 0 cards: [7, 35], counters: 12
 
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 35, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 35, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 35, Counters: 3, Action: PASS_CARD
-
+INFO: New top card is 6
 INFO: Asking player 0 for their move
 INFO: Player 0 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 35, Counters: 4, Action: PASS_CARD
+ Top card: 6, Counters: 0, Action: PASS_CARD
+INFO: Player 0 cards: [7, 35], counters: 11
 
 INFO: Asking player 1 for their move
 INFO: Player 1 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 35, Counters: 5, Action: PASS_CARD
+ Top card: 6, Counters: 1, Action: PASS_CARD
+INFO: Player 1 cards: [], counters: 9
 
 INFO: Asking player 2 for their move
 INFO: Player 2 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 35, Counters: 6, Action: PASS_CARD
+ Top card: 6, Counters: 2, Action: PASS_CARD
+INFO: Player 2 cards: [11], counters: 11
 
-INFO: Asking player 3 for their move
-INFO: Player 3 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 35, Counters: 7, Action: TAKE_CARD
-
-INFO: New top card is 6
-INFO: Asking player 3 for their move
-INFO: Player 3 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 18
 INFO: Asking player 3 for their move
 INFO: Player 3 chose PASS_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 6, Counters: 3, Action: PASS_CARD
+INFO: Player 3 cards: [], counters: 9
+
+INFO: Asking player 0 for their move
+INFO: Player 0 chose TAKE_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 6, Counters: 4, Action: TAKE_CARD
+INFO: Player 0 cards: [7, 35, 6], counters: 15
+
+INFO: New top card is 18
+INFO: Asking player 0 for their move
+INFO: Player 0 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
  Top card: 18, Counters: 0, Action: PASS_CARD
+INFO: Player 0 cards: [7, 35, 6], counters: 14
 
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
+INFO: Asking player 1 for their move
+INFO: Player 1 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
  Top card: 18, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 18, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 18, Counters: 3, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 18, Counters: 4, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 18, Counters: 5, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 18, Counters: 6, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 18, Counters: 7, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 18, Counters: 8, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 18, Counters: 9, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 18, Counters: 10, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 18, Counters: 11, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 18, Counters: 12, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 18, Counters: 13, Action: TAKE_CARD
-
-INFO: New top card is 27
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 27, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 27, Counters: 1, Action: TAKE_CARD
-
-INFO: New top card is 17
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 17, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 31
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 3, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 4, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 5, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 6, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 7, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 8, Action: PASS_CARD
+INFO: Player 1 cards: [], counters: 8
 
 INFO: Asking player 2 for their move
 INFO: Player 2 chose TAKE_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 31, Counters: 9, Action: TAKE_CARD
-
-INFO: New top card is 23
-INFO: Asking player 2 for their move
-INFO: Player 2 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 23, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 15
-INFO: Asking player 2 for their move
-INFO: Player 2 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 15, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 9
-INFO: Asking player 2 for their move
-INFO: Player 2 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 9, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 32
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 32, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 32, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 32, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 32, Counters: 3, Action: TAKE_CARD
-
-INFO: New top card is 28
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 28, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 3
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 3, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 26
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 26, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 16
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 16, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 22
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 22, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 29
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 29, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 34
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 34, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 14
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 14, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 21
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 21, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 24
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 24, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 12
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 12, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 4
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 4, Counters: 0, Action: TAKE_CARD
-
-INFO: Player 0 cards: [7, 18]
-INFO: Player 0 counters: 13
-INFO: Player 0 score: 12
-INFO: Player 1 cards: [3, 4, 12, 14, 16, 17, 21, 22, 24, 26, 27, 28, 29, 32, 34]
-INFO: Player 1 counters: 3
-INFO: Player 1 score: 179
-INFO: Player 2 cards: [9, 11, 15, 23, 31]
-INFO: Player 2 counters: 22
-INFO: Player 2 score: 67
-INFO: Player 3 cards: [6, 35]
-INFO: Player 3 counters: 6
-INFO: Player 3 score: 35
-INFO: Generated starting deck.
-INFO: Deck length: 24
-INFO: Informed players of their starting # counters.
-INFO: Starting the game, the top card is 11
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 3, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 4, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 5, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 6, Action: TAKE_CARD
-
-INFO: New top card is 7
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 3, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 4, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 5, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 6, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 7, Action: TAKE_CARD
-
-INFO: New top card is 35
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 35, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 35, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 35, Counters: 2, Action: TAKE_CARD
-
-INFO: New top card is 6
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 3, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 4, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 5, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 6, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 7, Action: TAKE_CARD
-
-INFO: New top card is 18
-INFO: Asking player 2 for their move
-INFO: Player 2 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 18, Counters: 0, Action: TAKE_CARD
+ Top card: 18, Counters: 2, Action: TAKE_CARD
+INFO: Player 2 cards: [11, 18], counters: 13
 
 INFO: New top card is 27
 INFO: Asking player 2 for their move
@@ -651,190 +117,192 @@ INFO: Player 2 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
  Top card: 27, Counters: 0, Action: PASS_CARD
+INFO: Player 2 cards: [11, 18], counters: 12
 
 INFO: Asking player 3 for their move
 INFO: Player 3 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
  Top card: 27, Counters: 1, Action: PASS_CARD
+INFO: Player 3 cards: [], counters: 8
 
 INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
+INFO: Player 0 chose TAKE_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 27, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 27, Counters: 3, Action: TAKE_CARD
+ Top card: 27, Counters: 2, Action: TAKE_CARD
+INFO: Player 0 cards: [7, 35, 6, 27], counters: 16
 
 INFO: New top card is 17
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
+INFO: Asking player 0 for their move
+INFO: Player 0 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
  Top card: 17, Counters: 0, Action: PASS_CARD
+INFO: Player 0 cards: [7, 35, 6, 27], counters: 15
 
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
+INFO: Asking player 1 for their move
+INFO: Player 1 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
  Top card: 17, Counters: 1, Action: PASS_CARD
+INFO: Player 1 cards: [], counters: 7
 
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
+INFO: Asking player 2 for their move
+INFO: Player 2 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
  Top card: 17, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 17, Counters: 3, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 17, Counters: 4, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 17, Counters: 5, Action: TAKE_CARD
-
-INFO: New top card is 31
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 3, Action: TAKE_CARD
-
-INFO: New top card is 23
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 23, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 23, Counters: 1, Action: TAKE_CARD
-
-INFO: New top card is 15
-INFO: Asking player 2 for their move
-INFO: Player 2 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 15, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 9
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 9, Counters: 0, Action: PASS_CARD
+INFO: Player 2 cards: [11, 18], counters: 11
 
 INFO: Asking player 3 for their move
 INFO: Player 3 chose TAKE_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 9, Counters: 1, Action: TAKE_CARD
+ Top card: 17, Counters: 3, Action: TAKE_CARD
+INFO: Player 3 cards: [17], counters: 11
 
-INFO: New top card is 32
+INFO: New top card is 31
 INFO: Asking player 3 for their move
 INFO: Player 3 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 32, Counters: 0, Action: PASS_CARD
+ Top card: 31, Counters: 0, Action: PASS_CARD
+INFO: Player 3 cards: [17], counters: 10
 
+INFO: Asking player 0 for their move
+INFO: Player 0 chose TAKE_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 31, Counters: 1, Action: TAKE_CARD
+INFO: Player 0 cards: [7, 35, 6, 27, 31], counters: 16
+
+INFO: New top card is 23
 INFO: Asking player 0 for their move
 INFO: Player 0 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 32, Counters: 1, Action: PASS_CARD
+ Top card: 23, Counters: 0, Action: PASS_CARD
+INFO: Player 0 cards: [7, 35, 6, 27, 31], counters: 15
 
 INFO: Asking player 1 for their move
 INFO: Player 1 chose TAKE_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 32, Counters: 2, Action: TAKE_CARD
+ Top card: 23, Counters: 1, Action: TAKE_CARD
+INFO: Player 1 cards: [23], counters: 8
 
-INFO: New top card is 28
+INFO: New top card is 15
+INFO: Asking player 1 for their move
+INFO: Player 1 chose TAKE_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 15, Counters: 0, Action: TAKE_CARD
+INFO: Player 1 cards: [23, 15], counters: 8
+
+INFO: New top card is 9
 INFO: Asking player 1 for their move
 INFO: Player 1 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 28, Counters: 0, Action: PASS_CARD
+ Top card: 9, Counters: 0, Action: PASS_CARD
+INFO: Player 1 cards: [23, 15], counters: 7
 
+INFO: Asking player 2 for their move
+INFO: Player 2 chose TAKE_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 9, Counters: 1, Action: TAKE_CARD
+INFO: Player 2 cards: [11, 18, 9], counters: 12
+
+INFO: New top card is 32
 INFO: Asking player 2 for their move
 INFO: Player 2 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 28, Counters: 1, Action: PASS_CARD
+ Top card: 32, Counters: 0, Action: PASS_CARD
+INFO: Player 2 cards: [11, 18, 9], counters: 11
+
+INFO: Asking player 3 for their move
+INFO: Player 3 chose TAKE_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 32, Counters: 1, Action: TAKE_CARD
+INFO: Player 3 cards: [17, 32], counters: 11
+
+INFO: New top card is 28
+INFO: Asking player 3 for their move
+INFO: Player 3 chose PASS_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 28, Counters: 0, Action: PASS_CARD
+INFO: Player 3 cards: [17, 32], counters: 10
+
+INFO: Asking player 0 for their move
+INFO: Player 0 chose TAKE_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 28, Counters: 1, Action: TAKE_CARD
+INFO: Player 0 cards: [7, 35, 6, 27, 31, 28], counters: 16
+
+INFO: New top card is 3
+INFO: Asking player 0 for their move
+INFO: Player 0 chose PASS_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 3, Counters: 0, Action: PASS_CARD
+INFO: Player 0 cards: [7, 35, 6, 27, 31, 28], counters: 15
+
+INFO: Asking player 1 for their move
+INFO: Player 1 chose TAKE_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 3, Counters: 1, Action: TAKE_CARD
+INFO: Player 1 cards: [23, 15, 3], counters: 8
+
+INFO: New top card is 26
+INFO: Asking player 1 for their move
+INFO: Player 1 chose PASS_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 26, Counters: 0, Action: PASS_CARD
+INFO: Player 1 cards: [23, 15, 3], counters: 7
+
+INFO: Asking player 2 for their move
+INFO: Player 2 chose TAKE_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 26, Counters: 1, Action: TAKE_CARD
+INFO: Player 2 cards: [11, 18, 9, 26], counters: 12
+
+INFO: New top card is 16
+INFO: Asking player 2 for their move
+INFO: Player 2 chose PASS_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 16, Counters: 0, Action: PASS_CARD
+INFO: Player 2 cards: [11, 18, 9, 26], counters: 11
 
 INFO: Asking player 3 for their move
 INFO: Player 3 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 28, Counters: 2, Action: PASS_CARD
+ Top card: 16, Counters: 1, Action: PASS_CARD
+INFO: Player 3 cards: [17, 32], counters: 9
 
 INFO: Asking player 0 for their move
 INFO: Player 0 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 28, Counters: 3, Action: PASS_CARD
+ Top card: 16, Counters: 2, Action: PASS_CARD
+INFO: Player 0 cards: [7, 35, 6, 27, 31, 28], counters: 14
 
 INFO: Asking player 1 for their move
 INFO: Player 1 chose TAKE_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 28, Counters: 4, Action: TAKE_CARD
-
-INFO: New top card is 3
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 3, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 26
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 26, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 16
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 16, Counters: 0, Action: TAKE_CARD
+ Top card: 16, Counters: 3, Action: TAKE_CARD
+INFO: Player 1 cards: [23, 15, 3, 16], counters: 10
 
 INFO: New top card is 22
 INFO: Asking player 1 for their move
@@ -842,45 +310,52 @@ INFO: Player 1 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
  Top card: 22, Counters: 0, Action: PASS_CARD
+INFO: Player 1 cards: [23, 15, 3, 16], counters: 9
 
+INFO: Asking player 2 for their move
+INFO: Player 2 chose TAKE_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 22, Counters: 1, Action: TAKE_CARD
+INFO: Player 2 cards: [11, 18, 9, 26, 22], counters: 12
+
+INFO: New top card is 29
+INFO: Asking player 2 for their move
+INFO: Player 2 chose TAKE_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 29, Counters: 0, Action: TAKE_CARD
+INFO: Player 2 cards: [11, 18, 9, 26, 22, 29], counters: 12
+
+INFO: New top card is 34
 INFO: Asking player 2 for their move
 INFO: Player 2 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 22, Counters: 1, Action: PASS_CARD
+ Top card: 34, Counters: 0, Action: PASS_CARD
+INFO: Player 2 cards: [11, 18, 9, 26, 22, 29], counters: 11
 
+INFO: Asking player 3 for their move
+INFO: Player 3 chose TAKE_CARD
+INFO: Informing all players of the move made.
+INFO: Turn info:
+ Top card: 34, Counters: 1, Action: TAKE_CARD
+INFO: Player 3 cards: [17, 32, 34], counters: 10
+
+INFO: New top card is 14
 INFO: Asking player 3 for their move
 INFO: Player 3 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 22, Counters: 2, Action: PASS_CARD
+ Top card: 14, Counters: 0, Action: PASS_CARD
+INFO: Player 3 cards: [17, 32, 34], counters: 9
 
 INFO: Asking player 0 for their move
 INFO: Player 0 chose TAKE_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 22, Counters: 3, Action: TAKE_CARD
-
-INFO: New top card is 29
-INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 29, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 34
-INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 34, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 14
-INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 14, Counters: 0, Action: TAKE_CARD
+ Top card: 14, Counters: 1, Action: TAKE_CARD
+INFO: Player 0 cards: [7, 35, 6, 27, 31, 28, 14], counters: 15
 
 INFO: New top card is 21
 INFO: Asking player 0 for their move
@@ -888,485 +363,63 @@ INFO: Player 0 chose TAKE_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
  Top card: 21, Counters: 0, Action: TAKE_CARD
+INFO: Player 0 cards: [7, 35, 6, 27, 31, 28, 14, 21], counters: 15
 
 INFO: New top card is 24
 INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 24, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 12
-INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 12, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 4
-INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 4, Counters: 0, Action: TAKE_CARD
-
-INFO: Player 0 cards: [4, 12, 14, 21, 22, 24, 29, 34]
-INFO: Player 0 counters: 3
-INFO: Player 0 score: 135
-INFO: Player 1 cards: [3, 7, 16, 26, 27, 28, 31, 32]
-INFO: Player 1 counters: 19
-INFO: Player 1 score: 64
-INFO: Player 2 cards: [6, 11, 15, 17, 18, 23]
-INFO: Player 2 counters: 19
-INFO: Player 2 score: 53
-INFO: Player 3 cards: [9, 35]
-INFO: Player 3 counters: 3
-INFO: Player 3 score: 41
-INFO: Generated starting deck.
-INFO: Deck length: 24
-INFO: Informed players of their starting # counters.
-INFO: Starting the game, the top card is 11
-INFO: Asking player 0 for their move
 INFO: Player 0 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 11, Counters: 0, Action: PASS_CARD
+ Top card: 24, Counters: 0, Action: PASS_CARD
+INFO: Player 0 cards: [7, 35, 6, 27, 31, 28, 14, 21], counters: 14
 
 INFO: Asking player 1 for their move
 INFO: Player 1 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 11, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 3, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 4, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 11, Counters: 5, Action: PASS_CARD
+ Top card: 24, Counters: 1, Action: PASS_CARD
+INFO: Player 1 cards: [23, 15, 3, 16], counters: 8
 
 INFO: Asking player 2 for their move
 INFO: Player 2 chose TAKE_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 11, Counters: 6, Action: TAKE_CARD
+ Top card: 24, Counters: 2, Action: TAKE_CARD
+INFO: Player 2 cards: [11, 18, 9, 26, 22, 29, 24], counters: 13
 
-INFO: New top card is 7
+INFO: New top card is 12
 INFO: Asking player 2 for their move
 INFO: Player 2 chose PASS_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 7, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 3, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 4, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 5, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 6, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 7, Counters: 7, Action: TAKE_CARD
-
-INFO: New top card is 35
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 35, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 35, Counters: 1, Action: PASS_CARD
+ Top card: 12, Counters: 0, Action: PASS_CARD
+INFO: Player 2 cards: [11, 18, 9, 26, 22, 29, 24], counters: 12
 
 INFO: Asking player 3 for their move
 INFO: Player 3 chose TAKE_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 35, Counters: 2, Action: TAKE_CARD
+ Top card: 12, Counters: 1, Action: TAKE_CARD
+INFO: Player 3 cards: [17, 32, 34, 12], counters: 10
 
-INFO: New top card is 6
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 3, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 4, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 5, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 6, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 6, Counters: 7, Action: TAKE_CARD
-
-INFO: New top card is 18
-INFO: Asking player 2 for their move
-INFO: Player 2 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 18, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 27
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 27, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 27, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 27, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 27, Counters: 3, Action: TAKE_CARD
-
-INFO: New top card is 17
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 17, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 17, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 17, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 17, Counters: 3, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 17, Counters: 4, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 17, Counters: 5, Action: TAKE_CARD
-
-INFO: New top card is 31
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 31, Counters: 3, Action: TAKE_CARD
-
-INFO: New top card is 23
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 23, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 23, Counters: 1, Action: TAKE_CARD
-
-INFO: New top card is 15
-INFO: Asking player 2 for their move
-INFO: Player 2 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 15, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 9
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 9, Counters: 0, Action: PASS_CARD
-
+INFO: New top card is 4
 INFO: Asking player 3 for their move
 INFO: Player 3 chose TAKE_CARD
 INFO: Informing all players of the move made.
 INFO: Turn info:
- Top card: 9, Counters: 1, Action: TAKE_CARD
-
-INFO: New top card is 32
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 32, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 32, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 32, Counters: 2, Action: TAKE_CARD
-
-INFO: New top card is 28
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 28, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 28, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 28, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 28, Counters: 3, Action: PASS_CARD
-
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 28, Counters: 4, Action: TAKE_CARD
-
-INFO: New top card is 3
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 3, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 26
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 26, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 16
-INFO: Asking player 1 for their move
-INFO: Player 1 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 16, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 22
-INFO: Asking player 1 for their move
-INFO: Player 1 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 22, Counters: 0, Action: PASS_CARD
-
-INFO: Asking player 2 for their move
-INFO: Player 2 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 22, Counters: 1, Action: PASS_CARD
-
-INFO: Asking player 3 for their move
-INFO: Player 3 chose PASS_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 22, Counters: 2, Action: PASS_CARD
-
-INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 22, Counters: 3, Action: TAKE_CARD
-
-INFO: New top card is 29
-INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 29, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 34
-INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 34, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 14
-INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 14, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 21
-INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 21, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 24
-INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 24, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 12
-INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
- Top card: 12, Counters: 0, Action: TAKE_CARD
-
-INFO: New top card is 4
-INFO: Asking player 0 for their move
-INFO: Player 0 chose TAKE_CARD
-INFO: Informing all players of the move made.
-INFO: Turn info:
  Top card: 4, Counters: 0, Action: TAKE_CARD
+INFO: Player 3 cards: [17, 32, 34, 12, 4], counters: 10
 
-INFO: Player 0 cards: [4, 12, 14, 21, 22, 24, 29, 34]
-INFO: Player 0 counters: 3
-INFO: Player 0 score: 135
-INFO: Player 1 cards: [3, 7, 16, 26, 27, 28, 31, 32]
-INFO: Player 1 counters: 19
-INFO: Player 1 score: 64
-INFO: Player 2 cards: [6, 11, 15, 17, 18, 23]
-INFO: Player 2 counters: 19
-INFO: Player 2 score: 53
-INFO: Player 3 cards: [9, 35]
-INFO: Player 3 counters: 3
-INFO: Player 3 score: 41
-INFO: The winner was: D
+INFO: Player 0 cards: [6, 7, 14, 21, 27, 28, 31, 35]
+INFO: Player 0 counters: 14
+INFO: Player 0 score: 120
+INFO: Player 1 cards: [3, 15, 16, 23]
+INFO: Player 1 counters: 8
+INFO: Player 1 score: 33
+INFO: Player 2 cards: [9, 11, 18, 22, 24, 26, 29]
+INFO: Player 2 counters: 12
+INFO: Player 2 score: 127
+INFO: Player 3 cards: [4, 12, 17, 32, 34]
+INFO: Player 3 counters: 10
+INFO: Player 3 score: 89
+INFO: The winner was: B
