@@ -2,13 +2,13 @@
 
 Refer README.md for details, but the concept is straightforward enough."""
 import random
-from player import Player, RandomPlayer
+from player import HumanPlayer, Player, RandomPlayer
 from turn import Turn
 import logging
 
 
 LOG_FMT_STR = "INFO: %(message)s"
-logging.basicConfig(filename='game_log.txt', format=LOG_FMT_STR, level=logging.INFO)
+logging.basicConfig(filename='debug.txt', format=LOG_FMT_STR, level=logging.INFO)
 
 class GameEngine():
     """Game engine class"""
@@ -146,11 +146,11 @@ class GameEngine():
         return self.player_scores.index(min(self.player_scores))
 
 def main():
-    random.seed(1)
+    # random.seed(1)
     player1 = RandomPlayer("A")
     player2 = RandomPlayer("B")
     player3 = RandomPlayer("C")
-    player4 = RandomPlayer("D")
+    player4 = HumanPlayer("D")
     players = [player1, player2, player3, player4]
     game_engine = GameEngine(players)
     winner = game_engine.play_game()

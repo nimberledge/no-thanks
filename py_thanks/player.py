@@ -58,7 +58,7 @@ class RandomPlayer(Player):
         if self.counters == 0:
             return 1
         flip = random.random()
-        if flip < 0.6:
+        if flip < 0.3:
             self.counters += counters
             self.cards.append(top_card)
             return 1
@@ -68,6 +68,59 @@ class RandomPlayer(Player):
 
     def see_turn(self, turn):
         return
+
+    def reset(self):
+        self.num_players = None
+        self.idx = None
+        self.counters = None
+        self.cards = None
+
+
+class HumanPlayer(Player):
+
+    def __init__(self, name):
+        super().__init__(name)
+
+    def start_game(self, num_players, player_index, counters):
+        print ("{}'s starting hand".format(self.name))
+        print ("num_players: {}".format(num_players))
+        print ("your index: {}".format(player_index))
+        print ("starting counters: {}".format(counters))
+        self.cards = []
+        self.counters = counters
+
+
+    def make_turn(self, top_card, counters):
+        self.print_deets()
+        print ("Top card: {}, number of counters: {}".format(top_card, counters))
+        print ("Enter 1 to take card, Enter 0 to pass on it")
+        choice = int(input("Choice? "))
+        while choice != 0 and choice != 1:
+            print ("invalid choice enter 1 or 0")
+            choice = int(input("Choice? "))
+
+        if choice == 0 and self.counters == 0:
+            print ("Invalid choice, taking card")
+            self.counters += counters
+            self.cards.append(top_card)
+        elif choice == 0:
+            self.counters -= 1
+        else:
+            self.cards.append(top_card)
+            self.counters += counters
+        return choice
+
+
+    def see_turn(self, turn):
+        print ("Turn made by player: {}".format(turn.player_index))
+        print ("Top card: {}, counter on it: {}, action: {}".format(
+            turn.top_card, turn.counters, turn.action
+        ))
+
+
+    def print_deets(self):
+        print ("Your cards: {}\nYour counters: {}".format(self.cards, self.counters))
+
 
     def reset(self):
         self.num_players = None
